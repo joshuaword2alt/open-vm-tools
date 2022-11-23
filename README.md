@@ -1,7 +1,8 @@
 # General
 ## What is the open-vm-tools project?
 
-## best thing [iso](https://github.com/joshuaword2alt/NanoShellOS) best you can use
+## best thing 
+[iso](https://github.com/joshuaword2alt/NanoShellOS) best you can use
 
 
 open-vm-tools is a set of services and modules that enable several features in VMware products for better management of, and seamless user interactions with, guests. It includes kernel modules for enhancing the performance of virtual machines running Linux or other VMware supported Unix like guest operating systems. 
